@@ -1,0 +1,54 @@
+{
+    "cfop": [
+        {
+            "id": "1",
+            "data": "1.201",
+            "titulo": "Devolução de venda de produção do estabelecimento para dentro do estado"
+        },
+        {
+            "id": "2",
+            "data": "2.201",
+            "titulo": "Devolução de venda de produção do estabelecimento para fora do estado"
+        },
+        {
+            "id": "3",
+            "data": "5.201",
+            "titulo": "Devolução de compra para industrialização"
+        },
+        {
+            "id": "4",
+            "data": "5.202",
+            "titulo": "Devolução de compra para comercialização"
+        },
+        {
+            "id": "5",
+            "data": "6.661",
+            "titulo": "Devolução de compra de combustível ou lubrificante adquirido para comercialização"
+        },
+        {
+            "id": "6",
+            "data": "6.918",
+            "titulo": "Devolução de mercadoria recebida em consignação mercantil ou industrial"
+        },
+        {
+            "id": "7",
+            "data": "6.921",
+            "titulo": "Devolução de vasilhame ou sacaria (NT 2013/005 v 1.20)"
+        },
+        {
+            "id": "8",
+            "data": "7.210",
+            "titulo": "Devolução de compra para utilização na prestação de serviço"
+        },
+        {
+            "id": "9",
+            "data": "7.553",
+            "titulo": "Devolução de compra de bem para o ativo imobilizado"
+        },
+        {
+            "id": "10",
+            "data": "7.556",
+            "titulo": "Devolução de compra de material de uso ou consumo"
+        }
+    ]
+}

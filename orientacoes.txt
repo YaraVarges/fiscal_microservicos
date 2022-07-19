@@ -1,0 +1,12 @@
+ORIENTAÇÃO AULAS
+#PARA RODAR SERVIÇO CLICAR NO PLAY DO PYTHON
+#Primeiro Rodar servicos.py em seguida rodar cliente.py e ver as noticias como saida no prompt
+#Rodar em janelas do prompt separadamente
+#Executado durante a aula na versao2 o comando docker build . (dentro de /versao2/)
+#Iniciado montagem do arquivo docker-compose
+
+Versão5 > inicia os containers > depois o arquivo crawler > depois o 
+arquivo cliente.py
+
+Versão5 = um banco de dados para gerenciar separadamente sistemas e jogatina 
+por meio do arquivo do crawler

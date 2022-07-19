@@ -1,0 +1,47 @@
+version: '3'
+
+services:
+  cfop:
+    image: servlistagem
+    build: .
+    volumes:
+      - "./servicos/CFOP:/servicos"
+    command: python3 servCFOP.py
+    ports:
+      - "5001:5000"
+
+  csosn:
+    image: servlistagem
+    build: .
+    volumes:
+      - "./servicos/CSOSN:/servicos"
+    command: python3 servCSOSN.py
+    ports:
+      - "5002:5000"
+  
+  cst:
+    image: servlistagem
+    build: .
+    volumes:
+      - "./servicos/CST:/servicos"
+    command: python3 servCST.py
+    ports:
+      - "5003:5000"
+
+  banco_cfop:
+    image: memcached
+    hostname: banco_cfop
+    ports:
+      - "5004:11211"
+
+  banco_csosn:
+    image: memcached
+    hostname: banco_csosn
+    ports:
+      - "5005:11211"
+  
+  banco_CST:
+    image: memcached
+    hostname: banco_CST
+    ports:
+      - "5006:11211"

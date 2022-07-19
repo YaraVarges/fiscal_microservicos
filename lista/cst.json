@@ -1,0 +1,59 @@
+{
+    "cst": [
+        {
+            "id": "1",
+            "data": "00",
+            "titulo": "Tributada integralmente"
+        },
+        {
+            "id": "2",
+            "data": "10",
+            "titulo": "Tributada e com cobrança do ICMS por substituição tributária"
+        },
+        {
+            "id": "3",
+            "data": "20",
+            "titulo": "Com redução da BC"
+        },
+        {
+            "id": "4",
+            "data": "30",
+            "titulo": "Isenta / não tributada e com cobrança do ICMS por substituição tributária"
+        },
+        {
+            "id": "5",
+            "data": "40",
+            "titulo": "Isenta"
+        },
+        {
+            "id": "6",
+            "data": "41",
+            "titulo": "Não tributada"
+        },
+        {
+            "id": "7",
+            "data": "50",
+            "titulo": "Com suspensão"
+        },
+        {
+            "id": "8",
+            "data": "51",
+            "titulo": "Com diferimento"
+        },
+        {
+            "id": "9",
+            "data": "60",
+            "titulo": "ICMS cobrado anteriormente por substituição tributária"
+        },
+        {
+            "id": "10",
+            "data": "70",
+            "titulo": "Com redução da BC e cobrança do ICMS por substituição tributária"
+        },
+        {
+            "id": "11",
+            "data": "90",
+            "titulo": "Outras"
+        }
+    ]
+}
